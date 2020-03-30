@@ -1,6 +1,7 @@
 ---
 title: Publication
 ---
+1. Chao-Hong Chen, Vikraman Choudhury, Jacques Carette, Amr Sabry. 2020. Fractional Types: Expressive and Safe Space Management for Ancilla Bits. In Proceedings of the 12th international conference on Reversible Computation (RC'20).
 1. Fang-Yi Lo, Chao-Hong Chen, and Ying-ping Chen. 2019. Genetic algorithms as shrinkers in property-based testing. In Proceedings of the Genetic and Evolutionary Computation Conference Companion (GECCO '19), Manuel López-Ibáñez (Ed.). ACM, New York, NY, USA, 291-292. DOI: https://doi.org/10.1145/3319619.3322004
 1. Jacques Carette, Chao-Hong Chen, Vikraman Choudhury, and Amr Sabry. 2018. From Reversible Programs to Univalent Universes and Back. Electronic Notes in Theoretical Computer Science 336 (2018), 5–25. DOI:http://dx.doi.org/10.1016/j.entcs.2018.03.013 
 1. Chao-Hong Chen, Vikraman Choudhury, and Ryan R. Newton. 2017. Adaptive lock-free data structures in Haskell: a general method for concurrent implementation swapping. In Proceedings of the 10th ACM SIGPLAN International Symposium on Haskell (Haskell 2017). ACM, New York, NY, USA, 197-211.
