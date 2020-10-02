@@ -1,7 +1,7 @@
 ---
 title: Publication
 ---
-1. Chao-Hong Chen and Amr Sabry. A Computational Interpretation of Compact Closed Categories: Reversible Programming with Negative and Fractional Types. 2020 (Submitted).
+1. Chao-Hong Chen and Amr Sabry. A Computational Interpretation of Compact Closed Categories: Reversible Programming with Negative and Fractional Types. 2021 Symposium on Principles of Programming Languages (POPL).
 1. Fang-Yi Lo, Chao-Hong Chen and Ying-ping Chen. Shrinking Counterexamples in Property-Based Testing with Genetic Algorithms. 2020 IEEE Congress on Evolutionary Computation (CEC).
 1. Chao-Hong Chen, Vikraman Choudhury, Jacques Carette, Amr Sabry. Fractional Types: Expressive and Safe Space Management for Ancilla Bits. In Proceedings of the 12th international conference on Reversible Computation (RC'20). DOI: <https://doi.org/10.1007/978-3-030-52482-1_10>
 1. Fang-Yi Lo, Chao-Hong Chen, and Ying-ping Chen. Genetic algorithms as shrinkers in property-based testing. In Proceedings of the Genetic and Evolutionary Computation Conference Companion (GECCO '19), Manuel López-Ibáñez (Ed.). ACM, New York, NY, USA, 291-292. DOI: <https://doi.org/10.1145/3319619.3322004>
