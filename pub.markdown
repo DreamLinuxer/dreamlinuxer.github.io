@@ -1,7 +1,7 @@
 ---
 title: Publication
 ---
-1. Chao-Hong Chen and Amr Sabry. A Computational Interpretation of Compact Closed Categories: Reversible Programming with Negative and Fractional Types. 2021 Symposium on Principles of Programming Languages (POPL).
+1. Chao-Hong Chen and Amr Sabry. A Computational Interpretation of Compact Closed Categories: Reversible Programming with Negative and Fractional Types. 2021 Symposium on Principles of Programming Languages (POPL). [[artifact](https://github.com/DreamLinuxer/popl21-artifact)][[errata](https://github.com/DreamLinuxer/popl21-artifact/raw/main/Doc/errata.pdf)]
 
 1. Fang-Yi Lo, Chao-Hong Chen and Ying-ping Chen. Shrinking Counterexamples in Property-Based Testing with Genetic Algorithms. 2020 IEEE Congress on Evolutionary Computation (CEC). DOI: <https://doi.org/10.1109/CEC48606.2020.9185807>
 
